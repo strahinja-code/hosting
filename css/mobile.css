@@ -65,7 +65,7 @@
   #hero .wrapper .hero-left ul {
     list-style: none;
   }
-  #plans .plan-card a {
+  #hero .hero-left a, #plans .plan-card a, #cta a {
     font-size:0.6rem;
   }
   #hero .wrapper .hero-left h3 {
